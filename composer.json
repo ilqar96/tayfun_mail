@@ -1,0 +1,7 @@
+{
+    "name": "admin/mail",
+    "description": "mail",
+    "require": {
+        "sendgrid/sendgrid": "^7.3"
+    }
+}

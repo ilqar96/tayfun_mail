@@ -12,7 +12,7 @@ require_once __DIR__.'/helper.php';
 //$email->addContent(
 //    "text/html", "<strong> Mail gonderimi ugurlu oldu </strong>"
 //);
-//$sendgrid = new \SendGrid('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');
+//$sendgrid = new \SendGrid('');
 //try {
 //    $response = $sendgrid->send($email);
 //    print $response->statusCode() . "\n";
